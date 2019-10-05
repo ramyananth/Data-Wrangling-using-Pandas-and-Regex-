@@ -1,4 +1,4 @@
-In this project I have implemented and performed a unit testing for a series of Python functions (Q1-Q13) that are typically required during the data wrangling phase of the end-to-end data science pipeline. A subset of unit testing functions is provided for you. You are expected to write unit testing for all the remaining functions.
+In this project I have implemented and performed a unit testing for a series of Python functions (Q1-Q13) that are typically required during the data wrangling phase of the end-to-end data science pipeline. 
 
 Data Wrangling consists of the following main steps:
 
